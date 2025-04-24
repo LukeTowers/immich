@@ -1888,11 +1888,11 @@
   "week": "Semaine",
   "welcome": "Bienvenue",
   "welcome_to_immich": "Bienvenue sur Immich",
-  "wifi_name": "Nom du réseau ",
+  "wifi_name": "Nom du réseau Wi-Fi",
   "year": "Année",
   "years_ago": "Il y a {years, plural, one {# an} other {# ans}}",
   "yes": "Oui",
   "you_dont_have_any_shared_links": "Vous n'avez aucun lien partagé",
-  "your_wifi_name": "Nom du réseau Wi-Fi ",
+  "your_wifi_name": "Nom du réseau Wi-Fi",
   "zoom_image": "Zoomer"
 }
